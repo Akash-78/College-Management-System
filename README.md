@@ -1,1 +1,1 @@
-# KAYAD
+# College Management System
